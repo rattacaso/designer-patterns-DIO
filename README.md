@@ -153,3 +153,5 @@ Temos o exemplo de um segundo Decorator adicionando o recurso de Cache ao nosso 
 Desta forma nós agregamos duas funcionalidades ao nosso serviço sem modificar o comportamento do serviço, ou modificar quem chama o serviço, desta forma estamos aderentes aos princípios **Responsabilidade Única**, **Aberto-Fechado** e **Inversão de Controle**.
 
 <u>Obs.: Seguir o princípio Segregação de Interfaces pode tornar o seu Decorator mais simples de ser implementado, visto que você terá menos métodos para submeter ao padrão.</u># designer-patterns-DIO
+
+Gostaria de resgistrar a ajuda da Helena Maximo na conclusão desta atividade.
